@@ -1,7 +1,7 @@
 /* 
  *
  * authors:   Judith Fuog
- *            Pascal Zaugg
+ *            Pascal Y. Zaugg
  *
  * Please follow the instructions given in comments below. 
  * The file outputc1 shows what the output of this program 
