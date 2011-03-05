@@ -1,5 +1,5 @@
 # Ignoring everything but c-files.
-!*.c
+!/*.c
 
 #Ignoring directory used to save slides
 vorlesungsfolien/
